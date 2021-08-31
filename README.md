@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/ratnajothy)
 
 <div align="middle">
-      <img align="middle" width="80%" height="80%" alt="About Me GIF" src="/assets/dataelemental-eyesight.gif">
+      <img align="middle" height="40%" alt="About Me GIF" src="/assets/data-elemental-eyesight.gif">
 </div>
 
 ## Engineer, Reader, Observer, Music Listener!!
