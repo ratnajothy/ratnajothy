@@ -25,4 +25,4 @@
 <br><br>
 
 ---
-![Ratnajothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratnajothy&count_private=true&hide_border=true&show_icons=true&theme=radical)<br>
+![Ratnajothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratnajothy&count_private=true&hide_border=true&show_icons=true)<br>
