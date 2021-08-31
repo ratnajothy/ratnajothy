@@ -10,7 +10,7 @@
       <img align="middle" height="50%" alt="About Me GIF" src="/assets/data-elemental-eyesight.gif">
 </div>
 
-- ⚠️ &nbsp; I'm with strong ability and extreme curiosity for **observation**, research & analysis.
+- ⚠️ &nbsp; I'm with strong ability and extreme curiosity in **observation**, research & analysis.
 - ❤️‍🔥  &nbsp;I'm currently exploring **IAM** technology space
 - 🥅  &nbsp;My goal is to contribute more to **Open Source** projects
 -  ⚡  &nbsp;Fun facts: I also enjoy **audio-reading** 🎧
