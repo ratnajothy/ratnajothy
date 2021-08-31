@@ -13,7 +13,7 @@
 - ⚠️ &nbsp; I'm with strong ability and extreme curiosity in **observation**, research & analysis.
 - ❤️‍🔥  &nbsp;I'm currently exploring **IAM** technology space
 - 🥅  &nbsp;My goal is to contribute more to **Open Source** projects
--  ⚡  &nbsp;Fun facts: I also enjoy **audio-reading** 🎧
+-  ⚡  &nbsp;Fun fact: I enjoy **audio-reading** 🎧
 
 ### Connect with me: 
 [<img aligh="left" alt="ratnajothy | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ratnajothy-sangeethanan)
