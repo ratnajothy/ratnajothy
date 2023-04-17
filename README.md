@@ -1,5 +1,5 @@
 ## Hey 👋 there, I'm Ratnajothy Sangeethanan - AKA _"Ratne"_
-### I perform Software Engineering, Reading & Observing
+### I perform Software Engineering
 ![Profile views](https://gpvc.arturio.dev/ratnajothy)
 
 <ul type="square">
