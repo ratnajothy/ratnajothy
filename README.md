@@ -10,11 +10,11 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td align="middle"><img height="auto" alt="" src="/assets/certs.png"></td>
+<td align="middle"><img height="auto" alt="" src="certs.png"></td>
 </tr>
 </table>
 
 <hr>
 
-#### Welcome to connect with me:
+#### You are welcome to connect with me:
 <a href="https://www.linkedin.com/in/ratnajothy-sangeethanan"><img aligh="left" alt="ratnajothy | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
