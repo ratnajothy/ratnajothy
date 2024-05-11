@@ -9,7 +9,12 @@
 [https://certification.wso2.com/web/certificate/6WS7A6](https://certification.wso2.com/certificate/6WS7A6)
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td align="middle"><img height="auto" alt="" src="certs.png"></td>
+<td align="middle" style="height: 22.5%;"><img src="wso2-certified-is-5-practitioner.png"></td>
+<td align="middle" style="height: 22.5%;"><img src="wso2-certified-is-5-developer.png"></td>
+</tr>
+<tr>
+<td align="middle" style="height: 22.5%;"><img src="wso2-certified-choreo-practitioner.png"></td>
+<td align="middle" style="height: 22.5%;"><img src="wso2-certified-choreo-apim-developer.png"></td>
 </tr>
 </table>
 
@@ -19,6 +24,5 @@
 
 #### ⚡ Fun fact:
 - I find inspiration in the background scores of movies and nostalgic themes from classic anime and cartoons.
-
 ---
 > Exploring technology, enhancing capabilities, and enjoying the journey of continuous learning!
